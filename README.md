@@ -4,11 +4,15 @@ Apesar da Marvel ter alcançado o sucesso absoluto recentemente **com os Vingado
 
 Nesse texto vamos destacar **quais são as atuais super-equipes com revista própria na Marvel**. As formações que citaremos aqui serão sempre as mais recentes possíveis. 
 
-## 1 – Vingadores (Adicionar link)
-## 2 – X-Men (Adicionar link)
-## 3 – Guardiões da Galáxia (Adicionar link)
-## 4 – X-Force (Adicionar link)
-## 5 – Legion of X (Adicionar link)
+## [1 – Vingadores](./pages/Vingadores.md) 
+
+## [2 – X-Men](./pages/X-Men.md) 
+
+## [3 – Guardiões da Galáxia](./pages/GuardioesGalaxia.md) 
+
+## [4 – X-Force](./pages/X-Force.md) 
+
+## [5 – Legion of X](./pages/Legion_X.md) 
 
 
 Fonte: Artigo "[Conheça todas as super-equipes atuais da Marvel nos quadrinhos]" elaborado por [Jamesons]. Acesso em 05/12/2022.
