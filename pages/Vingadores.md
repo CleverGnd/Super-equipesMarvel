@@ -18,4 +18,5 @@ A equipe é a referência em super-heroísmo da editora no momento. O atual QG �
 - Estigma
 - Falcão Noturno
 
+##
 [Retornar ao artigo!](/README.md)
